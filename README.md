@@ -1,5 +1,5 @@
 ## 📌 Project Title
-*Dynamic Weather Dashboard*
+## Dynamic Weather Dashboard
 
 -----------
 
