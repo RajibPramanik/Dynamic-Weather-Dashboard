@@ -13,7 +13,7 @@
 
 // OpenWeatherMap API configuration
 const API_CONFIG = {
-    key: 'c989489d24b21b4e2bfa815dfc0aff0c', // OpenWeatherMap API key
+    key: 'ed66486fb9885e91a983276abee63e7b', // OpenWeatherMap API key
     baseUrl: 'https://api.openweathermap.org/data/2.5',
     oneCallUrl: 'https://api.openweathermap.org/data/3.0/onecall' // For detailed forecast data
 };
